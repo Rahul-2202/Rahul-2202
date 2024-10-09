@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-2202&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-2202" /> </p>
 
-- 🔭 I’m currently working on [socialbet.ai](http://socialbet.ai/)
+- 🔭 I’m currently working on [socialbet.ai](http://vestra.ai/)
 
 - 🌱 I’m currently learning **NextJs,AWS,Docker**
 
